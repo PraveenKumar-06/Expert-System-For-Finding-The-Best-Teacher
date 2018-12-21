@@ -1,0 +1,17 @@
+The project Can be Executed based on the Environment such as Command prompt or a Python IDLE etc..
+
+Via Command Prompt
+
+1) Place the project.py file in your required folder.
+2) Open the command prompt and navigate to the folder where you have saved the file.
+3) Type the following command:- python project.py.
+4) Thus the project gets executed.
+
+Via Python IDLE
+
+1) Place the project.py file in your required folder.
+2) Right click on the project.py file.
+3) Go for the option "Edit with IDLE" and select the IDLE.
+4) Now the project gets opened in python IDLE.
+5) Now to execute the project, press the "F5" button.
+6) Output window pops out, executing the project.  
